@@ -9,53 +9,37 @@
  */
 class Solution {
 public:
-    int count(TreeNode* node){
-        if(!node)   return 0;
-        return 1+ count(node->left) + count(node->right);
-    }
-    void buildAdj(TreeNode* node, vector<int> adj[]){
+    void findParent(TreeNode* node, map<int,TreeNode*>& parent){
         if(!node)   return;
-        int u=node->val;
-        if(node->left){
-            int v=node->left->val;
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-        if(node->right){
-            int v=node->right->val;
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-        
-        buildAdj(node->left,adj);
-        buildAdj(node->right,adj);
+        if(node->left)      parent[node->left->val]=node;
+        if(node->right)     parent[node->right->val]=node;
+        findParent(node->left,parent);
+        findParent(node->right,parent);
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        int n=count(root);
-        vector<int> adj[n+1];
-        buildAdj(root,adj);
+        map<int,TreeNode*> parent;
+        findParent(root,parent);
 
-        vector<int> ans;
-        vector<int> vis(n+1,0);
-        
-        queue<pair<int,int>> q;
-        q.push({target->val,0});
+        vector<int>ans,vis(500+1,0);
+
+        queue<pair<TreeNode*,int>>q;
+        q.push({target,0});
 
         while(!q.empty()){
-            int node=q.front().first;
-            int dist=q.front().second;
-            q.pop();
+            TreeNode* node=q.front().first;
+            int dist=q.front().second;  
+            q.pop();      
 
-            vis[node]=1;
+            vis[node->val]=1;
+            if(dist==k)     ans.push_back(node->val);
             
-            if(dist==k)     
-                ans.push_back(node);
-            
-            for(auto i:adj[node])
-                if(!vis[i] && dist+1<=k)
-                    q.push({i,dist+1});
+            if(dist+1<=k){
+                if(node->left && !vis[node->left->val])      q.push({node->left,dist+1});    
+                if(node->right && !vis[node->right->val])     q.push({node->right,dist+1});
+                if(parent.find(node->val)!=parent.end() && !vis[parent[node->val]->val])    
+                    q.push({parent[node->val],dist+1});
+            }              
         }
-            
         return ans;
     }
 };
