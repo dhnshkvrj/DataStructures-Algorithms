@@ -24,20 +24,28 @@ public:
 
         queue<pair<TreeNode*,int>>q;
         q.push({target,0});
+        vis[target->val]=1;
 
         while(!q.empty()){
             TreeNode* node=q.front().first;
             int dist=q.front().second;  
             q.pop();      
 
-            vis[node->val]=1;
             if(dist==k)     ans.push_back(node->val);
             
             if(dist+1<=k){
-                if(node->left && !vis[node->left->val])      q.push({node->left,dist+1});    
-                if(node->right && !vis[node->right->val])     q.push({node->right,dist+1});
-                if(parent.find(node->val)!=parent.end() && !vis[parent[node->val]->val])    
+                if(node->left && !vis[node->left->val]){
+                    q.push({node->left,dist+1});    
+                    vis[node->left->val]=1;
+                }
+                if(node->right && !vis[node->right->val]){
+                    q.push({node->right,dist+1});
+                    vis[node->right->val]=1;
+                }
+                if(parent.find(node->val)!=parent.end() && !vis[parent[node->val]->val]){    
                     q.push({parent[node->val],dist+1});
+                    vis[parent[node->val]->val]=1;
+                }
             }              
         }
         return ans;
