@@ -4,6 +4,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -19,6 +20,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhnshkvrj/DS-Algo/tree/master/0199-binary-tree-right-side-view) |
@@ -43,6 +45,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -76,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sorting
 |  |
