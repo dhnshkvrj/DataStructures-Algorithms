@@ -11,15 +11,31 @@
  */
 class Solution {
 public:
-    void f(TreeNode* node, vector<int>& ans){
-        if(node==NULL)  return;
-        ans.push_back(node->val);
-        f(node->left,ans);
-        f(node->right,ans);
-    }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        f(root,ans);
+        TreeNode* curr=root;
+        while(curr){
+            if(curr->left == NULL){
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }
+            else{
+                TreeNode* prev=curr->left;
+                while(prev->right && prev->right!=curr){
+                    prev=prev->right;
+                }
+                // Now prev can stop at 2 different situations
+                if(prev->right == NULL){
+                    prev->right=curr;
+                    ans.push_back(curr->val);
+                    curr=curr->left;
+                }
+                else{       // It's already pointing to curr
+                    prev->right=NULL;
+                    curr=curr->right;
+                }
+            }
+        }
         return ans;
     }
 };
