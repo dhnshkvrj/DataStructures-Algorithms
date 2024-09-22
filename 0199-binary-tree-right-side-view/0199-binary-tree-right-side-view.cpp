@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    void f(TreeNode* node, int row, map<int,int>& mp){
+    // On reaching a particular row for the first time we add the value to the ans
+    // because we will reach the rightmost node on each row first
+    void f(TreeNode* node, int row, vector<int>&ans){
         if(node==NULL)  return; 
-        if(mp.find(row)==mp.end())
-            mp[row]=node->val;
-        f(node->right,row+1,mp);
-        f(node->left,row+1,mp);
+        if(ans.size()==row)     ans.push_back(node->val);
+        f(node->right,row+1,ans);
+        f(node->left,row+1,ans);
     }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> ans;
-        map<int,int>mp;
-        f(root,0,mp);
-
-        for(auto i:mp)
-            ans.push_back(i.second);
-        
+        f(root,0,ans);
         return ans;
     }
 };
