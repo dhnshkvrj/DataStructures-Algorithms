@@ -6,6 +6,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhnshkvrj/DS-Algo/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/dhnshkvrj/DS-Algo/tree/master/0222-count-complete-tree-nodes) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhnshkvrj/DS-Algo/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/dhnshkvrj/DS-Algo/tree/master/0222-count-complete-tree-nodes) |
@@ -60,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -79,4 +82,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/dhnshkvrj/DS-Algo/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
