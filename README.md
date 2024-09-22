@@ -15,6 +15,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/dhnshkvrj/DS-Algo/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0662-maximum-width-of-binary-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhnshkvrj/DS-Algo/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -33,9 +34,15 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhnshkvrj/DS-Algo/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/dhnshkvrj/DS-Algo/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Hash Table
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
