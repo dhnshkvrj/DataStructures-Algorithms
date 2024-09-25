@@ -100,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhnshkvrj/DS-Algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -121,6 +122,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
@@ -156,7 +158,16 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
