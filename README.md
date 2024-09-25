@@ -93,6 +93,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -102,6 +103,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhnshkvrj/DS-Algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
@@ -120,6 +122,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -151,5 +154,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
