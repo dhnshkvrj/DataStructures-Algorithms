@@ -129,6 +129,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/dhnshkvrj/DS-Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/dhnshkvrj/DS-Algo/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/dhnshkvrj/DS-Algo/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/dhnshkvrj/DS-Algo/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/dhnshkvrj/DS-Algo/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/dhnshkvrj/DS-Algo/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
