@@ -6,15 +6,23 @@ public:
 
         while(low<=high){
             int mid=(low+high)/2;
-            mini=min(mini,nums[mid]);
 
-            // Left is sorted
+            // Entire array is sorted
+            if(nums[low]<=nums[high]){
+                mini=min(mini,nums[low]);
+                break;
+            }
+
+            // Left half is sorted
             if(nums[low]<=nums[mid]){
                 mini=min(nums[low],mini);
                 low=mid+1;
             }
-            else
+            // Right half is sorted
+            else{
+                mini=min(mini,nums[mid]);
                 high=mid-1;
+            }
         }
         return mini;
     }
