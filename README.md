@@ -124,6 +124,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhnshkvrj/DS-Algo/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/dhnshkvrj/DS-Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/dhnshkvrj/DS-Algo/tree/master/0792-binary-search) |
 ## Bit Manipulation
@@ -142,6 +143,7 @@
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhnshkvrj/DS-Algo/tree/master/0735-asteroid-collision) |
