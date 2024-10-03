@@ -12,18 +12,17 @@ public:
             maxi=max(maxi,i);
         
         int low=1, high=maxi;
-        int ans=-1;
 
         while(low<=high){
             int mid=(low+high)/2;
 
-            if(findSum(mid,nums)<=threshold){
-                ans=mid;
-                high=mid-1;
-            }
-            else
-                low=mid+1;
+            if(findSum(mid,nums)<=threshold)    high=mid-1;
+            else                                low=mid+1;
         }
-        return ans;
+        return low;
+        // For high=div=maxi, it is always possible 
+        // for if so when it ends (low>high) high will be in not possible case
+        // and low will be the possible case => answer
+        // (opposite polarity)
     }
 };
