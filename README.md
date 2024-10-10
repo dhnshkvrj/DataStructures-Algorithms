@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/dhnshkvrj/DS-Algo/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
@@ -231,4 +232,12 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/dhnshkvrj/DS-Algo/tree/master/0937-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhnshkvrj/DS-Algo/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhnshkvrj/DS-Algo/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
