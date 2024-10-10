@@ -164,6 +164,7 @@
 | [0792-binary-search](https://github.com/dhnshkvrj/DS-Algo/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/dhnshkvrj/DS-Algo/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/dhnshkvrj/DS-Algo/tree/master/0967-minimum-falling-path-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dhnshkvrj/DS-Algo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhnshkvrj/DS-Algo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -227,6 +228,7 @@
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/dhnshkvrj/DS-Algo/tree/master/0967-minimum-falling-path-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0063-unique-paths-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhnshkvrj/DS-Algo/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
+| [0967-minimum-falling-path-sum](https://github.com/dhnshkvrj/DS-Algo/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
 |  |
 | ------- |
