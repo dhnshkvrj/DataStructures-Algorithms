@@ -152,6 +152,7 @@
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhnshkvrj/DS-Algo/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@
 | [0064-minimum-path-sum](https://github.com/dhnshkvrj/DS-Algo/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dhnshkvrj/DS-Algo/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
