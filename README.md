@@ -153,6 +153,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dhnshkvrj/DS-Algo/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -217,6 +218,7 @@
 | [0070-climbing-stairs](https://github.com/dhnshkvrj/DS-Algo/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/dhnshkvrj/DS-Algo/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0213-house-robber-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhnshkvrj/DS-Algo/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
