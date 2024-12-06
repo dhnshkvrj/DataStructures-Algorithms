@@ -97,6 +97,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhnshkvrj/DS-Algo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhnshkvrj/DS-Algo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhnshkvrj/DS-Algo/tree/master/1646-kth-missing-positive-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dhnshkvrj/DS-Algo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dhnshkvrj/DS-Algo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dhnshkvrj/DS-Algo/tree/master/1646-kth-missing-positive-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +248,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/dhnshkvrj/DS-Algo/tree/master/0402-remove-k-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Data Stream
 |  |
 | ------- |
