@@ -194,6 +194,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhnshkvrj/DS-Algo/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dhnshkvrj/DS-Algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
@@ -269,4 +270,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhnshkvrj/DS-Algo/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhnshkvrj/DS-Algo/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
