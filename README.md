@@ -182,6 +182,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/dhnshkvrj/DS-Algo/tree/master/0058-length-of-last-word) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/dhnshkvrj/DS-Algo/tree/master/0402-remove-k-digits) |
 ## Design
