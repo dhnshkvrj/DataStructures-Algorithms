@@ -144,6 +144,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dhnshkvrj/DS-Algo/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhnshkvrj/DS-Algo/tree/master/0035-search-insert-position) |
@@ -219,6 +220,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dhnshkvrj/DS-Algo/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/dhnshkvrj/DS-Algo/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
